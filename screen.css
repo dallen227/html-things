@@ -1,1 +1,32 @@
 /* Add screen styles below */
+body {
+    background: #6E6362;
+    margin-top: 100px;
+}
+
+.card{
+    background: #394053;
+    color: #7CAE7A;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card div{
+    padding: 20px
+}
+
+H1{
+    background: #839073;
+    margin: 0;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+}
